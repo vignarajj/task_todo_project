@@ -118,3 +118,5 @@ coverage/
 # Project summaries
 .summaries/
 build
+
+*.g.dart
