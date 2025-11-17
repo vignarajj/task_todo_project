@@ -324,13 +324,6 @@ MIT License - feel free to use in your projects!
 - Appwrite for modern BaaS infrastructure
 - Material Design for UI guidelines
 
-## 📞 Support
-
-- **Setup Guide**: [APPWRITE_CONSOLE_SETUP.md](.summaries/APPWRITE_CONSOLE_SETUP.md)
-- **Quick Start**: [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
-- **Migration Info**: [MIGRATION_SUMMARY.md](.summaries/MIGRATION_SUMMARY.md)
-- **Appwrite Docs**: https://appwrite.io/docs
-
 ## 🚀 Commands
 
 ```bash
